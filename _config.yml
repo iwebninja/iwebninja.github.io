@@ -1,0 +1,8 @@
+title: Hello.
+description: I'm a nerd.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
